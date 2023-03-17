@@ -1,0 +1,88 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+.bg-img{
+    background-image: url(https://burst.shopifycdn.com/photos/laptop-from-above.jpg?width=1200&format=pjpg&exif=1&iptc=1);
+    background-size: cover;
+    height: 500px;
+}
+.bg-img2{
+    opacity: 0.6;
+    background-color:black;
+    height: 500px;
+    width: 100%;
+}
+.text1{
+    text-align: center;
+}
+.ctentp1{
+    padding: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.font1{
+    font-family: 'Pacifico', cursive;
+}
+.font2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.idiv{
+    height: 250px;
+    text-align: center;
+}
+.idiv2{
+    padding: 25px;
+}
+.iconsize{
+    font-size: 30px;
+}
+.div1{
+    height: 500px;
+}
+.div2{
+    padding: 40px;
+    text-align: center;
+}
+.m1{
+    padding-left: 120px;
+    padding-top: 30px;
+}
+.div3{
+    text-align: center;
+    padding: 50px;
+}
+.div4{
+    height: 400px;
+}
+.div5{
+    padding: 30px;
+    margin-left: 20px;
+}
+.div6{
+    padding: 20px;
+}
+.pad1{
+    padding: 35px;
+    margin-left: 35px;
+    margin-bottom: 25px;
+    height: 70px;
+}
+.m1{
+    position: relative;
+    bottom: 160px;
+    margin-left: 90px;
+}
+.m2{
+    height: 100px;
+}
+.div5{
+    text-align: center;
+    padding: 10px;
+   position: relative;
+   bottom: 100px;
+
+}
+.div6{
+    height: 400px;
+}

@@ -1,0 +1,13 @@
+.bg-container{
+    height: 400px;
+}
+.d1{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.d2{
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}

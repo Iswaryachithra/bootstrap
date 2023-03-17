@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.container1{
+    background-image: url("https://agrilifetoday.tamu.edu/wp-content/uploads/2022/06/MicrosoftTeams-image-5-1.jpg");
+    height: 600px;
+    width: 1320px;
+    /* background-size: cover; */
+    opacity: 0.8;
+}
+.child-container{
+    padding: 50px;
+    margin-right: 400px;
+    margin-top: 50px;
+    
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.div1{
+    background-color: black;
+}
+.div2{
+    background-color: cyan;
+}
+.div3{
+    background-color: black;
+}
+.bg{
+    background-color: black;
+}
+.bg2{
+    background-color: cyan;
+}
+.bg3{
+    background-color: darkcyan;
+}
+.p2{
+    padding: 20px;
+}
+.icon{
+    font-size: 40px;
+    text-align: center;
+}
+.ic{
+    border: 1px solid cyan;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: cyan;
+}
+.btn1{
+    border: 1px solid cyan;
+    color: black;
+    width: 200px;
+}
+.btn2{
+    border: solid cyan;
+    background-color: cyan;
+    color: white;
+    border-radius: 20px;
+}
+.btn3{
+    background-color: white;
+    color: cyan;
+    border: solid cyan;
+    border-radius: 20px;
+    padding: 4px;
+}
+.getm{
+    padding-left: 30px;
+}
+.btn4{
+    background-color: black;
+    color: white;
+    border: solid white;
+    padding: 6px;
+}
+.div4{
+    padding: 10px;
+}
+.div5{
+    padding-top: 30px;
+}
+.div6{
+    font-family: 'Pacifico', cursive;
+}
+.div7{
+    font-family: 'Times New Roman', Times, serif;
+}

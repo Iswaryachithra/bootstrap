@@ -1,0 +1,22 @@
+.bg-container{
+      background-image: url("https://assets.ey.com/content/dam/ey-sites/ey-com/en_in/topics/consulting/2022/ey-woman-using-vr-headset.jpg");
+      background-size: cover;
+      height: 100vh;
+}
+/* .child-container{
+    padding: 10px;
+    margin: 20px;
+} */
+.img1{
+    height: 300px;
+    width: 350px;
+    border: solid ;
+    border-radius: 170px;
+}
+.label{
+    text-align: center;
+    padding: 70px;
+}
+.buton1{
+    margin-left: 670px;
+}

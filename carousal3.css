@@ -1,0 +1,27 @@
+.bg-container{
+    background-image: url("https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/12/investing-in-metaverse.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.child-container{
+    background-color: grey;
+    padding: 20px;
+    margin: 20px;
+}
+.img{
+    height: 100px;
+    width: 120px;
+}
+h1{
+    padding: 40px;
+}
+.d1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.d2{
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+}

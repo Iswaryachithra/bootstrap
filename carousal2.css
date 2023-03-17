@@ -1,0 +1,17 @@
+.bg-container{
+    background-image: url("https://www.slashgear.com/img/gallery/heres-what-shopping-will-be-like-in-the-metaverse/l-intro-1656103883.jpg ");
+    background-size: cover;
+    height: 400px;
+    margin: 10px;
+}
+.child-container{
+    background-color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+.bton2{
+    width: 150px;
+}
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+}
